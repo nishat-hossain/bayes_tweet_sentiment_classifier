@@ -1,4 +1,4 @@
-#Classifying Sentiment in Tweets Using Conditional Probability
+# Classifying Sentiment in Tweets Using Conditional Probability
 
 Tools used: regex, Python, pandas
 
